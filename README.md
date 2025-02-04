@@ -21,9 +21,6 @@ Before starting, ensure you have the following installed:
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-License
-[Choose a license, e.g., MIT License]
-
 Acknowledgements
 
 Hugging Face
