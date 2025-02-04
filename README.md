@@ -1,4 +1,4 @@
-# Smart Medical Chatbot using Open-Source Tools
+# MedX Chatbot using Open-Source Tools
 
 This project demonstrates how to build a smart medical chatbot using open-source tools. It utilizes Hugging Face for text embeddings, Faiss CPU for efficient vector storage and similarity search, and Mistral, a large language model, integrated with Streamlit for a conversational interface.  This tutorial is designed for beginners with no prior experience in chatbot development.
 
