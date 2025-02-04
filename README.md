@@ -25,7 +25,11 @@ License
 [Choose a license, e.g., MIT License]
 
 Acknowledgements
+
 Hugging Face
+
 Faiss
+
 Mistral
+
 Streamlit
